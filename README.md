@@ -1,6 +1,7 @@
-# 🚴 SOFTBYKE
-
-Site fictício de e-commerce especializado em bicicletas, peças e acessórios para ciclismo, desenvolvido como **projeto acadêmico** para a disciplina de **Desenvolvimento Web** do curso de **Ciência da Computação**.
+<h1><a href="https://ana-juliaps.github.io/SOFTBYKE/">🚴 SOFTBYKE </a></h1>
+https://ana-juliaps.github.io/SOFTBYKE/
+<br><br>
+Site fictício de e-commerce especializado em bicicletas, peças e acessórios para ciclismo, desenvolvido como <b>projeto acadêmico</b> para a disciplina de <b>Desenvolvimento Web</b> do curso de <b>Ciência da Computação</b>.
 
 O projeto simula uma loja virtual completa, com página inicial, catálogo de produtos, páginas de produto dinâmicas, institucional, galeria e uma área de documentação técnica.
 
